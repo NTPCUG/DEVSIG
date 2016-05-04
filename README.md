@@ -1,5 +1,5 @@
 # DEVSIG
-Developers SIG of the North Texas PC User Group
+Developers SIG of the North Texas PC Users Group
 - Tom Perkins
 - Chris Morgan
 
